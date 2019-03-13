@@ -1,3 +1,6 @@
+## Log Management System
+본 프로젝트는 React를 이용하여 만들어진 Log 모니터링 시스템 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
